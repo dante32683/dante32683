@@ -4,7 +4,7 @@ Computer engineering student at Santa Rosa Junior College working on engineering
 
 ## Current focus
 
-**SRJC Baja SAE** - Engineering Integration Specialist. I work on cross-subteam vehicle integration and early sensor/data-logging planning, and I built and maintain the team's Canvas workspace and [srjcsaeclub.org](https://srjcsaeclub.org).
+**SRJC Baja SAE** - Engineering Integration Specialist. I drew the car's power and safety schematics in KiCad, co-drew the data-acquisition sheet, and ran the first bench checks on the RaceCapture data logger. I also designed and maintain the team's Canvas workspace and built [srjcsaeclub.org](https://srjcsaeclub.org).
 
 ## Selected work
 
